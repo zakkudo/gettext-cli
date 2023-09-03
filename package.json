@@ -1,0 +1,25 @@
+{
+  "name": "gettext-cli",
+  "version": "1.0.0",
+  "description": "A pure Javascript implementation of gettext, xgettext, msgmerge and msginit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakkudo/gettext-cli.git"
+  },
+  "keywords": [
+    "gettext",
+    "xgettext",
+    "msgmerge",
+    "msginit"
+  ],
+  "author": "Zachary Dovel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakkudo/gettext-cli/issues"
+  },
+  "homepage": "https://github.com/zakkudo/gettext-cli#readme"
+}
